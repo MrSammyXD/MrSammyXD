@@ -1,5 +1,5 @@
  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** My Name is Sammy ~  | [![Profile views](https://gpvc.arturio.dev/mrsammyxd)](https://github.com/mrsammyxd)
-![MrSammy](https://telegra.ph/file/8f8a5b3b32a7c92b712a5.jpg)
+![MrSammy](https://telegra.ph/file/8
  
 
 
