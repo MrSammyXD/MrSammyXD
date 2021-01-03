@@ -12,9 +12,9 @@
 
 **Languages I currently know :**
 
-[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
+[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)[![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net)
 
-[![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net)
+
 
 [![Nim](https://img.shields.io/badge/-Nim-%232c3e50?style=flat-square&logo=nim)](https://nim-lang.org)
 
