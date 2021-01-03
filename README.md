@@ -58,11 +58,11 @@
 
 **Contact Me:**
 
-![Telegram Badge](https://img.shields.io/badge/-DeprecatedUser-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/iQuitBye)
+![Telegram Badge](https://img.shields.io/badge/-ContactSammy-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/iQuitBye)
 
 ![Gmail Badge](https://img.shields.io/badge/-mrsammyxd.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrsammyxd.com)
 
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40DeprecatedChat&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DDeprecatedChat&longCache=true%22)](https://t.me/iQuitBye)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40Request&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DDeprecatedChat&longCache=true%22)](https://t.me/iQuitBye)
 
 
 ##  🎶 **Currently Playing**
