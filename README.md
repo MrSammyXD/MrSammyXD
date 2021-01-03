@@ -30,23 +30,23 @@
 
 **My Tech Stack I use Everyday:**
 
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com) [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) [![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=typescript)](https://termux.com) [![Docker](https://img.shields.io/badge/-Docker-%23007ACC?style=flat-square&logo=docker)](https://www.docker.com/) [![Docker](https://img.shields.io/badge/-Docker-%23007ACC?style=flat-square&logo=docker)](https://www.docker.com/)
 
-[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
-[![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=typescript)](https://termux.com)
+[![Android Studio](https://img.shields.io/badge/-Studio-%232c3e50?style=flat-square&logo=android-studio)](https://developer.android.com/studio) [![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=postgresql)](https://postgresql.org) [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com) [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-grey?style=flat-square&logo=digitalocean)](https://digitalocean.com)
 
-[![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=flat-square&logo=vim)](https://vim.org)
 
-[![Docker](https://img.shields.io/badge/-Docker-%23007ACC?style=flat-square&logo=docker)](https://www.docker.com/)
 
-[![Android Studio](https://img.shields.io/badge/-Studio-%232c3e50?style=flat-square&logo=android-studio)](https://developer.android.com/studio)
 
-[![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=postgresql)](https://postgresql.org)
 
-[![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com)
 
-[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-grey?style=flat-square&logo=digitalocean)](https://digitalocean.com)
+
+
+
+
+
+
+
 
 
 **Hobbies :**
