@@ -10,10 +10,10 @@
 **Languages I currently know :**
 
 ```
-About Me = [
+
     "I'm student with nub dev labels",
    "python Java Pyrogram"
-]
+
 ```
 
 ##  🎶 **Currently Playing**
