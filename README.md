@@ -7,7 +7,7 @@
 
 ## 👦 **About me**:
 
-**Languages I currently know :**
+
 
 ```
 
