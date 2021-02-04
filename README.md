@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://telegra.ph/file/db1a7630edd203ce51fb9.mp4" alt="MrSammyXD">
+<img src="https://telegra.ph/file/f6de16ee62b4476ab24c8.jpg" alt="MrSammyXD">
 
 ## 👦 **About me**:
 
