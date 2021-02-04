@@ -1,6 +1,9 @@
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** My Name is Sammy ~  | [![Profile views](https://gpvc.arturio.dev/mrsammyxd)](https://github.com/mrsammyxd)
 
-![Header](https://telegra.ph/file/f3d0c13f4a02b487ba238.mp4)
+
+<p align="center">
+
+<img src="https://telegra.ph/file/db1a7630edd203ce51fb9.mp4" alt="MrSammyXD">
 
 ## 👦 **About me**:
 
