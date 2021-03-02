@@ -2,8 +2,8 @@
 
 
 
-<p align="center">
-<img src="https://telegra.ph/file/f6de16ee62b4476ab24c8.jpg" alt="MrSammyXD">
+<p align="left"><a href="https://github.com/xditya/TeleBot"><img src="https://github-readme-stats.vercel.app/api/pin?username=xditya&show_icons=true&theme=dark&hide_border=true&repo=TeleBot"></a></p><p align="centre"><a href="https://t.me/TeleBotHelpChat">
+
 
 ## 👦 **About me**:
 
