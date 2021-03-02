@@ -2,7 +2,7 @@
 
 
 
-<p align="left"><a href="https://github.com/MrSammyXD/MrSammyXD"><img src="https://github-readme-stats.vercel.app/api/pin?username=MrSammyXD&show_icons=true&theme=dark&hide_border=true&repo=MrSammyXD"></a></p><p align="centre"><a href="https://t.me/ItzWolf">
+<p align="left"><a href="https://github.com/MrSammyXD/MrSammyXD"><img src="https://github-readme-stats.vercel.app/api/pin?username=MrSammyXD&show_icons=true&theme=dark&hide_border=true&repo=Mr Sammy"></a></p><p align="centre"><a href="https://t.me/ItzWolf">
 
 
 ## 👦 **About me**:
