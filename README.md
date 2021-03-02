@@ -2,7 +2,8 @@
 
 
 
-<p 
+<p align="center">
+<img src="https://telegra.ph/file/2f913d56680be45df386c.jpg" alt="MrSammyXD">
 
 ## 👦 **About me**:
 
